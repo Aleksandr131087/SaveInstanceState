@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView (Catalog)</string>
+    <string name="name_text">Введите имя</string>
+    <string name="age_text">Введите возраст</string>
+    <string name="button_text">Сохранить</string>
+    <string name="exit">Exit</string>
+</resources>
